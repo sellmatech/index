@@ -37,25 +37,25 @@ header .profilePhoto {
 }
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
-	color: #00635d;
+	color: #FFFFFF;
 	font-size: 23px;
 	font-weight: 700;
 	line-height: 24px;
 }
-header .profileHeader h3 {
-	font-family: sans-serif;
-	color: rgba(0,0,0,1.00);
+header .profileHeader h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
 	font-size: 19px;
 	font-weight: 700;
 	line-height: 24px;
 }
 hr {
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgba(0,0,0,1.00);
 	height: 1px;
 }
 header .profileHeader p {
 	font-family: sans-serif;
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
@@ -99,7 +99,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	font-family: ProximaNova;
 	font-size: 14px;
 	font-weight: 400;
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 }
 .mainContent .section1 .section1Content span {
 	color: #00635d;
@@ -113,13 +113,13 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section2 .sectionContentSubTitle {
 	font-family: sans-serif;
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 	font-size: 14px;
 	font-weight: 700;
 }
 .section2 .sectionContent {
 	font-family: sans-serif;
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
@@ -161,7 +161,7 @@ footer .footerDisclaimer {
 	font-weight: 700;
 }
 footer .footerDisclaimer span {
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 	font-weight: 400;
 }
 footer .footerNote {
@@ -172,7 +172,7 @@ footer .footerNote {
 	font-weight: 700;
 }
 footer .footerNote span {
-	color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
 	font-weight: 400;
 }
 
