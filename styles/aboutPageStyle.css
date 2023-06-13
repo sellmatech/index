@@ -4,27 +4,27 @@
 body {
   background-color: black;
   margin-top: 100px;
-  margin-left: 100px;
-  margin-right: 100px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
 	color: white;
 	font-size: 11px;
+	margin: 25px;
 }
 
 h1 {
 	color: white;
 	text-align: center;
 	font-size: 22px;
+	padding: 5px;
 }
 h2 {
 	color: white;
 	text-align: center;
 	font-size: 18px;
-	padding: 25px;
+	padding: 5px;
 }
 
 /* Mobile */
