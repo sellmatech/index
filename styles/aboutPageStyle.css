@@ -5,8 +5,7 @@ body {
   background-color: black;
   font-family: "Walkway Expand SemiBold";
   margin-top: 100px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin: 50px;
 }
 
 p {
