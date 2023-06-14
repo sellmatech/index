@@ -14,7 +14,6 @@ p {
 	font-size: 12px;
 	font-weight: bold;
 	text-align: right;
-	margin: 25px;
 }
 
 h1 {
@@ -31,6 +30,12 @@ h2 {
 	margin-bottom: 100px;
 }
 
+/* Whole page content */
+#mainWrapper {
+	width: 85%;
+	padding-left: 10%;
+}
+
 /* Mobile View */
 
 @media screen and (max-width: 480px) {
@@ -38,4 +43,4 @@ h2 {
 		width: 96%;
 		margin-left: 2%;
 	}
-}
+	}
