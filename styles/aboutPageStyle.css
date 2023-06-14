@@ -3,7 +3,7 @@
 
 body {
   background-color: black;
-  font-family: "Walkway Expand SemiBold";
+  font-family: "Walkway Expand SemiBold", "Garamond", "Times New Roman";
   margin-top: 75px;
   margin-left: auto;
   margin-right: auto;
@@ -28,6 +28,11 @@ h2 {
 	text-align: center;
 	font-size: 15px;
 	margin-bottom: 100px;
+}
+
+img {
+	object-fit: scale-down;
+	max-width: 100%;
 }
 
 /* Whole page content */
