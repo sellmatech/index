@@ -4,15 +4,17 @@
 body {
   background-color: black;
   font-family: "Walkway Expand SemiBold";
-  margin-top: 100px;
-  margin: 50px;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
 	color: #60B5FE;
 	font-size: 12px;
 	font-weight: bold;
-	margin: auto;
+	text-align: right;
+	margin: 25px;
 }
 
 h1 {
@@ -20,10 +22,20 @@ h1 {
 	text-align: center;
 	font-size: 30px;
 	font-weight: bold;
+	margin-bottom: 50px;
 }
 h2 {
 	color: white;
 	text-align: center;
 	font-size: 15px;
-	padding-bottom: 50px;
+	margin-bottom: 100px;
+}
+
+/* Mobile View */
+
+@media screen and (max-width: 480px) {
+	body {
+		width: 96%;
+		margin-left: 2%;
+	}
 }
