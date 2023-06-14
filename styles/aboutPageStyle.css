@@ -3,15 +3,17 @@
 
 body {
   background-color: black;
+  font-family: "Walkway Expand SemiBold";
   margin-top: 100px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 p {
-	color: white;
-	font-size: 11px;
-	margin: 25px;
+	color: #60B5FE;
+	font-size: 12px;
+	font-weight: bold;
+	margin: auto;
 }
 
 h1 {
@@ -23,38 +25,6 @@ h1 {
 h2 {
 	color: white;
 	text-align: center;
-	font-size: 18px;
+	font-size: 15px;
 	padding: 5px;
-}
-
-/* Mobile */
-@media (max-width: 320px) {
-header nav ul {
-}
-nav ul li {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	width: 100%;
-	text-align: center;
-}
-}
-
-/* Small Tablets */
-@media (min-width: 321px)and (max-width: 767px) {
-header nav ul {
-	padding: 0px;
-	float: none;
-}
-nav ul li {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	width: 100%;
-	text-align: center;
-	padding-top: 8px;
-	padding-bottom: 8px;
-}
 }
