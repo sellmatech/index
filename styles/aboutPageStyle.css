@@ -13,7 +13,7 @@ p {
 	color: #60B5FE;
 	font-size: 12px;
 	font-weight: bold;
-	text-align: right;
+	text-align: center;
 }
 
 h1 {
@@ -26,16 +26,23 @@ h1 {
 h2 {
 	color: white;
 	text-align: center;
-	font-size: 15px;
-	margin-bottom: 100px;
+	font-size: 20px;
+	margin-bottom: 75px;
 }
 
 h3 {
 	color: white;
 	text-align: center;
-	font-size: 20px;
+	font-size: 18px;
 	font-style: italic;
-	margin-bottom: 100px;
+	margin-bottom: 75px;
+}
+
+h4 {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	margin-bottom: 75px;
 }
 
 img {
